@@ -1,4 +1,4 @@
-# This MoSimulator mod includes the following Robots:
+# This MoSimulator mod includes the following Robot(s):
 
 - [Fill This In]
 
