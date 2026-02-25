@@ -1,4 +1,4 @@
-# This MoSimulator mod includes the following Robot(s):
+# This MoSimulator repo includes the source for the following Robots:
 
 - [Fill This In]
 
