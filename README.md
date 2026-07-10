@@ -5,4 +5,4 @@ Welcome to the official repository for the public release of the MoSimulator sou
 All of the modding documentation is located in a Google Doc here: [Modding Documentation](https://docs.mosimulator.com/).
 
 <br>
-Note: MoSimulator's source code is protected under a GNU GPL 3 License. Please follow its guidelines as you work on the game.
+Note: MoSimulator's source code is protected by a custom proprietary license. By downloading or interacting with this repository, you agree to the terms outlined in the LICENSE file.
